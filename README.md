@@ -1,0 +1,1 @@
+This repo is to understand the basic of bash
