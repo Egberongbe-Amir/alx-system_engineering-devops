@@ -1,4 +1,5 @@
 #!/bin/bash
-ls -l 0x00-shell_basics
+ls -l
+
 
 
